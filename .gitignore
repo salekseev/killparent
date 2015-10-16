@@ -1,0 +1,17 @@
+*.log
+depcomp
+install-sh
+missing
+Makefile
+Makefile.in
+config.h
+config.h.in
+config.status
+configure
+build
+*.m4
+*.substvars
+*.o
+.deps
+src/killparent
+stamp-h1
